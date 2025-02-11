@@ -1,7 +1,4 @@
-
-
-
-export default function CoreComponent({image,title,description}){
+export default function CoreComponent({image,title, description}){
   return(
     <li>
       <img src={image} alt={title}/>
