@@ -8,10 +8,8 @@ function App() {
     <div>
       <Header/>
       <main>
-
         <CoreConcepts/>
         <Examples/>
-
       </main>
     </div>
   );
